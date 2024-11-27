@@ -2,6 +2,8 @@
 
 ## 1.4.11
 
+- Add PHP 8.4 support for `gd`
+- Add the `h3` extension
 - Updated Blackfire to version 1.92.28.
 
 ## 1.4.10
